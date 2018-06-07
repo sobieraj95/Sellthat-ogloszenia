@@ -1,0 +1,42 @@
+#kontener_mojsell{
+	position:relative;
+	top:38px;
+	margin:0 50 0 50;
+	color:#595c63;
+	height:auto;
+}
+
+/* menu */
+.menu ul{
+	color:black;
+	left:220px;
+	top:70px;
+	position:absolute;
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0 0 0 0;
+	float: left;
+	background-color: #e9eaed;
+	text-align:center;
+}
+
+.menu ul li {
+	color:#595c63;
+	float: left;
+	width:170px;
+}
+
+.menu ul a:link, ul a:visited {
+	color:#595c63;
+	text-decoration: none;
+	display: block;
+	font-weight: bold;
+	background: #e9eaed;
+	padding: 10px 20px;
+}
+
+.menu ul a:hover {
+	background-color:#bcbfc6;
+}
+

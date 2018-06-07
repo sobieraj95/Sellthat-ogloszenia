@@ -1,0 +1,108 @@
+body{
+	background:#e9eaed;
+	margin:0px;
+	padding:0px;
+	border:0px;
+	width:1200px;
+	color:black;
+	height:100%;
+}
+
+#kontener_calosc{
+	position:relative;
+	display:block;
+	margin:0 200 0 200;
+	padding:0px;
+	width:800px;
+	height:805px;
+}
+
+#kontener_top{
+	position:relative;
+	display:block;
+	height:70px;
+}
+
+#kontener_wyszukiwarka{
+	position:absolute;
+	top:75px;
+	left:20px;
+	right:20px;
+	height:150px;
+	background:#2c8fb8;
+	display:block;
+	border-radius:15px;	
+}
+
+#kontener_kategorie{
+	position:absolute;
+	top:245px;
+	left:30px;
+	height:330px;
+	width:385px;
+	display:block;
+}
+
+#kontener_dodaj{
+	position:absolute;
+	top:245px;
+	right:10px;
+	height:330px;
+	width:345px;
+	display:block;
+	color:#595c63;
+
+}
+
+#kontener_informacje{
+	position:absolute;
+	top:585px;
+	left:10px;
+	height:150px;
+	width:580px;
+	padding:10px;
+	color:#595c63;
+}
+
+#kontener_facebook{
+	position:absolute;
+	top:585px;
+	right:10px;
+	height:150px;
+	width:190px;
+	display:block;
+}
+
+#kontener_stopka{
+	position:absolute;
+	top:745px;
+	left:10px;
+	bottom:0px;
+	right:10px;
+	height:150px;
+	display:block;
+}
+
+#kontener_rejestracja{
+	position:relative;
+	margin:0 50 0 50;
+	height:550px;
+	color:#595c63;
+}
+
+#kontener_input{
+	width:350px;
+	height:500px;
+	border-right:1px solid;
+	padding-left:20px;
+}
+
+#kontener_objasnienia{
+	position:absolute;
+	left:360px;
+	top:40px;
+	width:280px;
+	height:auto;
+	display:block;
+	margin-left:30px;
+}

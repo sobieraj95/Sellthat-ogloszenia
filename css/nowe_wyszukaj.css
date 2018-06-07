@@ -1,0 +1,251 @@
+.kontener_wyszukiwarka2{
+	position:absolute;
+	top:75px;
+	left:20px;
+	right:20px;
+	height:150px;
+	background:#2c8fb8;
+	display:block;
+	border-radius:15px;	
+}
+
+.wyszukiwarka_wlasciwa2{
+	margin:15px;
+	width:350px;
+	height:20px;
+	display:block;
+	background:white;
+	border-radius:8px;	
+}
+
+.wyszukaj_input2{
+	width:350px;
+	height:20px;
+	display:block;
+	background:white;
+	border-radius:8px;
+}
+
+.kontener_wyniki2{
+	position:relative;
+	top:40px;
+	margin:0 50 0 50;
+	color:#595c63;
+	height:auto;
+}
+
+#cena_rosnaco {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #ffffff;
+	padding: 5px 30px;
+	background: -moz-linear-gradient(
+		top,
+		#0081b4 0%,
+		#0081b4);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#0081b4),
+		to(#0081b4));
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #000000;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+	position:absolute;
+	width:170px;
+	top:60px;
+	left:20px;
+	cursor:hand;
+}
+
+#cena_malejaco {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #ffffff;
+	padding: 5px 30px;
+	background: -moz-linear-gradient(
+		top,
+		#0081b4 0%,
+		#0081b4);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#0081b4),
+		to(#0081b4));
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #000000;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+	position:absolute;
+	width:170px;
+	top:100px;
+	left:20px;
+	cursor:hand;
+}
+
+.kontener_calosc2{
+	position:relative;
+	display:block;
+	margin:0 200 0 200;
+	padding:0px;
+	width:800px;
+	height:805px;
+}
+
+.butt_cofnij {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #ffffff;
+	padding: 10px 20px;
+	background: -moz-linear-gradient(
+		top,
+		#ff1b1b 0%,
+		#ff1b1b);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#ff1b1b),
+		to(#ff1b1b));
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #000000;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+	position:absolute;
+	top:-15px;
+	right:15px;
+	cursor:hand;
+}
+
+.kontener_wyszukiwarka2{
+	position:absolute;
+	top:75px;
+	left:20px;
+	right:20px;
+	height:170px;
+	background:#2c8fb8;
+	display:block;
+	border-radius:15px;	
+}
+
+.kontener_cena{
+	position:absolute;
+	top:20px;
+	right:10px;
+	height:330px;
+	width:345px;
+	display:block;
+	color:black;
+
+}
+
+.kontener_kategorie2{
+	position:absolute;
+	top:245px;
+	left:30px;
+	height:330px;
+	width:385px;
+	display:block;
+}
+
+.kontener_dodaj2{
+	position:absolute;
+	top:245px;
+	right:10px;
+	height:330px;
+	width:345px;
+	display:block;
+	color:#595c63;
+
+}
+
+.kontener_informacje2{
+	position:absolute;
+	top:585px;
+	left:10px;
+	height:150px;
+	width:580px;
+	padding:10px;
+	color:#595c63;
+}
+
+.kontener_facebook2{
+	position:absolute;
+	top:585px;
+	right:10px;
+	height:150px;
+	width:190px;
+	display:block;
+}
+
+.kontener_stopka2{
+	position:absolute;
+	top:745px;
+	left:10px;
+	bottom:0px;
+	right:10px;
+	height:150px;
+	display:block;
+}
+
+
+
+input[type="radio"] {
+    display:none;
+}
+
+input[type="radio"] + label {
+    color:#f2f2f2;
+    font-family:Arial, sans-serif;
+}
+
+input[type="radio"] + label span {
+    display:inline-block;
+    width:19px;
+    height:19px;
+    margin:-2px 10px 0 0;
+    vertical-align:middle;
+    background:url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/check_radio_sheet.png) -38px top no-repeat;
+    cursor:pointer;
+}
+
+input[type="radio"]:checked + label span {
+    background:url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/check_radio_sheet.png) -57px top no-repeat;
+}
+
+input[type=text]:focus {
+    background-color: lightblue;
+}

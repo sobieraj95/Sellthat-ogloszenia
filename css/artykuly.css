@@ -1,0 +1,98 @@
+#kontener_artykul{
+	position:absolute;
+	margin:20 50 0 50;
+	width:470px;
+	height:510px;
+	color:#595c63;
+}
+
+#kontener_kontakt{
+	position:absolute;
+	right:0px;
+	margin:20  50 0 50;
+	height:510px;
+	color:#595c63;
+	width:210px;
+	color:black;
+}
+
+#kontener_artykul img{
+	position:absolute;
+	margin:10px;
+	width:400px;
+	height:300px;
+	color:#595c63;
+}
+
+#kontener_artykul .artykul_opis{
+	position:absolute;
+	margin:10px;
+	top:415px;
+	color:#595c63;
+}
+
+#kontener_kontakt .cena{
+	padding:12px;
+	position:absolute;
+	margin:20  0 0 0;
+	width:100%;
+	border-radius:15px;
+	background:#0081b4;
+	text-align:center;
+}
+
+#kontener_kontakt .kontakt{
+	padding:12px;
+	position:absolute;
+	top:90px;
+	width:100%;
+	border-radius:15px;
+	background:#0081b4;
+	text-align:center;
+}
+
+#kontener_kontakt .kontakt_gg{
+	padding:12px;
+	position:absolute;
+	top:180px;
+	width:100%;
+	border-radius:15px;
+	background:#0081b4;
+	text-align:center;
+}
+
+.napisz_wiad{
+	color: #ffffff;
+	padding:12px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align:center;
+	background: -moz-linear-gradient(
+		top,
+		#ff1b1b 0%,
+		#ff1b1b);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#ff1b1b),
+		to(#ff1b1b));
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #000000;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+	position:absolute;
+	width:235px;
+	top:290px;
+	cursor:hand;
+}
